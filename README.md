@@ -2,7 +2,7 @@
 
 - Clone the repo
 
-    ```git clone https://github.com/Learning-Hub-by-Chetan-Talwar/python-sample-docker```
+    ```git clone https://github.com/thechetantalwar/python-demo```
 - Change directory
 
     ```cd python-sample-docker```
